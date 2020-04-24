@@ -761,7 +761,7 @@
             "join": "Tap to join",
             "roomname": "Enter room name"
         },
-        "appDescription": "Go ahead, video chat with the whole team. In fact, invite everyone you know. {{app}} is a fully encrypted, 100% open source video conferencing solution that you can use all day, every day, for free — with no account needed.",
+        "appDescription": "We use this service to keep our internal communication going, also in times of COVID-19. We would love to offer this service to other initatives, too. It showed that self-hosted Jitsi installtions have performance limitations. For reason (and to proteced our chats from trolls) you have to log to run your own chat room. If you would like to have a login please contected use by mail: jitsi[at]gaengeviertel.de.",
         "audioVideoSwitch": {
             "audio": "Voice",
             "video": "Video"
@@ -785,7 +785,7 @@
         "roomnameHint": "Enter the name or URL of the room you want to join. You may make a name up, just let the people you are meeting know it so that they enter the same name.",
         "sendFeedback": "Send feedback",
         "terms": "Terms",
-        "title": "Secure, fully featured, and completely free video conferencing"
+        "title": "This is a Jitsi instance run by Gaengeviertel, Hamburg. Jitsi is a secure, fully featured, and completely free video conferencing"
     },
     "lonelyMeetingExperience": {
         "button": "Invite others",

@@ -745,7 +745,7 @@
             "join": "Zum Teilnehmen tippen",
             "roomname": "Konferenzname eingeben"
         },
-        "appDescription": "Auf geht's! Starten Sie eine Videokonferenz mit dem ganzen Team. Oder besser noch: Laden Sie alle ein, die Sie kennen. {{app}} ist eine vollständig verschlüsselte, aus 100 % Open-Source-Software bestehende Videokonferenzlösung, die Sie den ganzen Tag kostenlos verwenden können — ohne Registrierung.",
+        "appDescription": "Wir nutzen diesen Service für unsere eigene Kommunikation in der Corona-Krise. Wir wollen diesen Service auch anderen Iniativen gerne anbieten. Es hat sich gezeigt das eigene Jitsi-Installationen recht schnell an Performance-Grenzen stossen. Von daher (und um unsere Unterhaltungen vor Trollen zu schützen) ist der Betrieb von Chat-Räumen nur mit Anmeldung möglich. Wenn ihr einen Zugang haben wollt schreibt uns gerne eine Mail an jitsi[at]gaengeviertel.de ",
         "audioVideoSwitch": {
             "audio": "Audio",
             "video": "Video"
@@ -768,7 +768,7 @@
         "roomnameHint": "Name oder URL der Konferenz, der Sie beitreten möchten. Sie können einen Namen erfinden, er muss nur den anderen Teilnehmern übermittelt werden, damit diese der gleichen Konferenz beitreten.",
         "sendFeedback": "Feedback senden",
         "terms": "AGB",
-        "title": "Sichere, mit umfassenden Funktionen ausgestattete und vollkommen kostenlose Videokonferenzen"
+        "title": "Dieses ist die Jitsi-Instanze aus dem Gängeviertel. Jitsi ist eine sichere, mit umfassenden Funktionen ausgestattete und vollkommen kostenlose Videokonferenzen"
     },
     "lonelyMeetingExperience": {
         "button": "Andere einladen",
